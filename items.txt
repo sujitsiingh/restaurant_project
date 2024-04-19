@@ -1,0 +1,6 @@
+1,veg pizza,350
+3,chicken pizza,450
+4,chicken sandwitch,120
+5,french fries,170
+6,choco shake,90
+7,biryani,160

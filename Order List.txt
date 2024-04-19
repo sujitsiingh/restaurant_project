@@ -1,0 +1,3 @@
+871->chicken pizza- 1,chicken sandwitch- 1,choco shake- 2,
+922->chicken pizza- 1,1332->chicken sandwitch- 2,
+1038->chicken sandwitch- 2,choco shake- 2,french fries- 1,
